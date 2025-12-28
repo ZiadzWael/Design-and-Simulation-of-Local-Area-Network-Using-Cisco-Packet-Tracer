@@ -3,7 +3,7 @@ This project is v1 implements a multi-department Local Area Network (LAN) simula
 
 ## Project Structure (v1)
 
-v1/
+Main which is --> v1/
 
 ├── implementation-guide.pdf
 
