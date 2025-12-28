@@ -5,6 +5,7 @@ This project (v1) implements a multi-department Local Area Network (LAN) simulat
 
 ## Project Structure
 Main (v1)/
+
 ├── implementation-guide.pdf
 
 ├── LAN-Network-Simulation.pkt
