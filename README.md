@@ -1,4 +1,13 @@
+# LAN Network Simulation Project
 
+## Project Overview
+This project (v1) implements a multi-department Local Area Network (LAN) simulation using Cisco Packet Tracer. The design demonstrates VLAN segmentation and inter-VLAN routing for a university faculty environment with four academic departments.
+
+## Project Structure
+Main (v1)/
+├── implementation-guide.pdf
+├── LAN-Network-Simulation.pkt
+└── network-project.pdf
 ## Technical Specifications
 
 ### VLAN Architecture
